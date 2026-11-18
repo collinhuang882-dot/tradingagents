@@ -1,0 +1,15 @@
+.venv/
+data/
+node_modules/
+dist/
+__pycache__/
+.pytest_cache/
+.env
+*.log
+.npm-cache/
+test-results/
+playwright-report/
+.runtime/
+.uv-cache/
+.venv-stable/
+*.tsbuildinfo
